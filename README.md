@@ -4,6 +4,13 @@ This project generates smooth, looping curves through an arbitrary set of user-s
 The result is an interactive creative-coding tool that blends visualization, mathematical modeling, and numerical methods.
 
 # View Project on the Web
+## Instructions
+- **Click** on the canvas to add a new point.
+- **Drag** any point to reposition it.
+- Use the **sliders** to control at what value of t the function reaches each point.  
+  Adjusting these changes how the parametric curve flows through the points.
+
+## Links
 - View in fullscreen: https://editor.p5js.org/GeffenGilbert/full/2GoDL-PAP
 - View with the code: https://editor.p5js.org/GeffenGilbert/sketches/2GoDL-PAP
 
