@@ -43,6 +43,6 @@ Clearly separated functions, clean arrays, and readable logic—no classes requi
 This project combines creative coding, data visualization, and numerical linear algebra. It's both an exploration tool for curve generation and a demonstration of implementing core math algorithms manually.
 
 # Technologies
-p5.js
-Custom linear algebra (no external libraries)
-JavaScript
+- p5.js
+- Custom linear algebra (no external libraries)
+- JavaScript
