@@ -11,8 +11,7 @@ The result is an interactive creative-coding tool that blends visualization, mat
   Adjusting these changes how the parametric curve flows through the points.
 
 ## Links
-- View in fullscreen: https://editor.p5js.org/GeffenGilbert/full/2GoDL-PAP
-- View with the code: https://editor.p5js.org/GeffenGilbert/sketches/2GoDL-PAP
+- View project: https://editor.p5js.org/GeffenGilbert/full/2GoDL-PAP
 
 # Features
 ## Parametric Interpolation
